@@ -1,0 +1,126 @@
+//Onboarding
+"on1" = "Get ready to explore every corner of the buildings without any hassle!";
+"on2" = "navigate the buildings and easily locate your desired destinations";
+"on3" = "Let this app be your indoor positioning companion";
+"on4" = "Skip";
+"on5" = "Next";
+//Sign up view
+"But" = "Get Started";
+"signup1" = "1. You Should Register First";
+"signup2" = "Full Name ";
+"signup3" = "your name";
+"signup4" = "Email ";
+"signup5" = "your email :";
+"signup6" = "Password ";
+"signup7" = "your password ";
+"signup8" = "Sign up";
+"signup9" = "Already have an account?";
+"signup10" = "Sign in";
+"signup11" = "Error";
+"signup12" = "Please enter all required information.";
+"signup13" = "ok";
+// Sign In view
+"signin1" = "Email ";
+"signin2" = "your email";
+"signin3"= "Password ";
+"signin4" = "password ";
+"signin5" = "Log In";
+"signin6" = "Don't have an account?";
+"signin7" = "Sign up";
+"signin8" = "Error";
+"signin9" = "Please enter valid email and password.";
+"signin10"= "ok";
+// profile View
+"pro1" = "Profile";
+"pro2" = "Edit Profile";
+"pro3" = "Edit Profile";
+"pro4" = "Edit Name";
+"pro5" = "Edit Phone Number";
+"pro6" = "Save";
+"pro7" = "Name";
+"pro8" = "Email Address:";
+"pro9" = "Phone Number";
+// Explore View
+"exp1" = "Search...";
+"exp2" = "+ Add Your Place";
+"exp3" = "This service requires purchase $933";
+"exp4" = "Confirm";
+//Select Destenation View
+"sel1" = "Select your destination";
+"sel2" = "Scan QR code :";
+"sel3" = "From :";
+"sel4" = "To :";
+"sel5" = "Start navigate to";
+"sel6" = "Start";
+// Follow BreadcrubsView
+"fol1" = "Find a " ;
+// Scan View
+"scan1" = "Scan the QR code to Start Navigate";
+"scan3" = "Please Provide Access to Camera for scanning code";
+"scan4" = "Please Provide Access to Camera for scanning code";
+"scan5" = "Unkown Device Error";
+"scan6" = "Unkown Input/Output Error";
+// Purchase View
+"pur1" = "2. You Should Pay 💳";
+"pur2" = "Your Information";
+"pur3" = "Phone Number";
+"pur4" = "Email";
+"pur5" = "The amount payable";
+"pur6" = "   $933";
+"pur7" = "Read the terms of service";
+"pur8" = "Pay";
+"pur9" = "Name";
+// Card View
+"card1" = "Card Info";
+"card2" = "Expairy Date";
+"card3" = "VISA";
+"card4" = "Card Number";
+"card5" = "Card Holder Name";
+"card6" = "Expiry Date";
+"card7" = "CVV";
+"card8" = "Add Card";
+"card9" = "Enter valid CVV";
+"card10" = "Enter card holder name";
+// Terms and Conditions View
+"ter1" = "Terms And Condition";
+"ter2" = "Thank you for using the Navigate App . By accessing or using the App, you agree to be bound by the following terms and conditions. Please read them carefully before using the App.
+Acceptance of Terms
+These Terms and Conditions constitute a legally binding agreement between you and the creators of the Indoor Navigate App. By using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree with these Terms, please do not use the App.";
+"ter4" = "App Description";
+"ter5" = "The Navigate App is designed to provide navigation assistance within indoor spaces, such as shopping malls, airports, or other large buildings to help users navigate through these spaces.
+User Responsibilities
+a. You agree to use the App responsibly and in compliance with all applicable laws and regulations.
+b. You are responsible for providing accurate and up-to-date information about your current location in order to receive accurate navigation guidance.";
+"ter6" = "Privacy";
+"ter7" = "Your privacy is important to us. We may collect and process personal information in accordance with our Privacy Policy. By using the App, you consent to the collection, use, and disclosure of your personal information as described in our Privacy Policy.
+Intellectual Property
+The App and its content, including but not limited to text, graphics, images, logos, and software, are the property of the creators of the Navigate App and are protected by intellectual property laws. You may not reproduce, modify, distribute, or display any part of the App without the prior written consent of the owners.
+Disclaimer of Warranty
+The App is provided on an and as available basis. We do not warrant or guarantee the accuracy, completeness, or reliability of the App or its content. Your use of the App is at your own risk.
+Limitation of Liability
+To the extent permitted by law, we shall not be liable for any direct, indirect, incidental, consequential, or special damages arising out of or in connection with your use of the App, including but not limited to damages for loss of profits, data, or other intangible losses.
+Modifications and Termination
+We reserve the right to modify, suspend, or discontinue the App or any part thereof at any time without prior notice. We may also modify these Terms from time to time. Your continued use of the App after any modifications to these Terms constitutes your acceptance of the modified Terms.";
+"ter8" = "Governing Law";
+"ter9" = "These Terms shall be governed by and construed in accordance with the laws of the jurisdiction where the creators of the Navigate App are located, without regard to its conflict of laws principles.
+Contact Information
+If you have any questions or concerns regarding these Terms, please contact us at Sahrr@hotmail.com & reem.mobark2030@gmail.com.
+By using the Navigate App, you acknowledge that you have read, understood, and agreed to these Terms and Conditions.
+
+ For more information, you can call the following numbers:
+ 0553100085
+ 0533680071";
+"ter10" = " Navigate Team";
+//Tuwaiq View
+"twq1" = "Tuwaiq Academy";
+"twq2" = "Tuwaiq Academy is the first educational program in advanced technology fields in Saudi Arabia, offering a variety of programs in different technical tracks.";
+"twq3" = "Kingdom of Saudi Arabia, Riyadh";
+"twq4" = "King Khalid Airport District, Princess Noura bint Abdul Rahman University";
+"twq5" = "For More About Tuwaiq Academy";
+"twq6" = "Click here!";
+"twq7" = "Popular Places";
+"twq8" = "An introductory tour of Tuwaiq Academy";
+"twq9" = "Tour of Tuwaiq Academy ";
+"twq10" = "let's to Start Navigate";
+//Tour View
+"tour" = "Tour of Tuwaiq Academy";
